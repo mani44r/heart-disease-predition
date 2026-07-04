@@ -1,0 +1,13 @@
+{
+  "best_model": "Logistic Regression",
+  "roc_auc": 0.9134199134199135,
+  "chosen_threshold": 0.3,
+  "recall_at_threshold": 0.939,
+  "precision_at_threshold": 0.756,
+  "model_comparison": {
+    "Logistic Regression": 0.913,
+    "Random Forest": 0.88,
+    "XGBoost": 0.876
+  },
+  "uses_scaler": true
+}
